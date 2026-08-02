@@ -28,8 +28,12 @@
 
 <td width="65%" valign="top" style="border-right:1px solid #30363d;">
 
+<br>
 
 - 💻 Full Stack Developer passionate about building modern web apps.
+
+
+
 - 🌱 Currently learning **System Design, Cloud & DevOps**.
 - 🚀 Building **AI-powered** projects and contributing to **Open Source**.
 - 🎯 Goal: Create products that solve real-world problems.
@@ -39,9 +43,10 @@
 </td>
 
 <td width="35%" align="center" valign="middle">
+<br>
 
 <img
-  src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e"
+  src="./assests/side-banner.png"
   width="180"
   alt="Developer Illustration"
 />
