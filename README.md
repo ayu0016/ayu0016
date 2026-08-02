@@ -45,72 +45,75 @@ Building production-ready software with modern web technologies while exploring 
 
 # ⚙️ Engineering Toolkit
 
-### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
-</p>
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
+</td>
+</tr>
 
-### Frontend
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,html,css" />
+</td>
+</tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,html,css&theme=dark" />
-</p>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
 
-<p>
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Backend
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=flat-square"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=flat-square&logo=gmail&logoColor=white" />
-</p>
+<tr>
+<td><strong>Database</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</td>
+</tr>
 
-### Databases
+<tr>
+<td><strong>GenAI</strong></td>
+<td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-121212?style=flat-square"/>
 
-### AI / GenAI
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+<tr>
+<td><strong>DevOps</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+</td>
+</tr>
 
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-121212?style=flat-square" />
-</p>
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,notion" />
+<img src="https://img.shields.io/badge/Thunder%20Client-7B68EE?style=flat-square"/>
+</td>
+</tr>
 
-### DevOps & Deployment
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions&theme=dark" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,notion&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Thunder%20Client-7B68EE?style=flat-square" />
-</p>
 ---
 
 <img src="./assets/quest-card.svg" width="100%"/>
