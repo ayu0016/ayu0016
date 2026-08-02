@@ -42,16 +42,17 @@
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle" >
 <br>
 
 <img
   src="./assests/side-banner.png"
   width="180"
   alt="Developer Illustration"
+  width="100%"
 />
 
-<br><br>
+
 
 
 </td>
