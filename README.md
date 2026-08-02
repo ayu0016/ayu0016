@@ -5,28 +5,29 @@
 
 <div align="center">
 
-# AYUSH
-
-### Curious • Consistent • Builder
+# Hey there, I'm <span style="color:#3B82F6">Ayush Rastogi</span> 👋
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=1800&pause=700&color=60A5FA&center=true&vCenter=true&repeat=true&width=500&lines=Think.;Build.;Ship.;Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;Backend+Enthusiast;GenAI+Explorer"/>
 
-### *Learn by Shipping.*
+### **Curious • Consistent • Builder**
 
-
-## Full Stack Engineer • GenAI
+<i>Learn by Shipping.</i>
 
 </div>
 
+<div align="center">
+<img src="./assests/section-devider.svg" width="100%" alt="Section Divider"/>
+</div>
 
 <h2 align="center">👩‍💻 About Me</h2>
+
 
 <table align="center" width="100%" cellspacing="0" cellpadding="12" style="border:1px solid #30363d; border-radius:10px;">
 
 <tr>
 
-<td width="70%" valign="top" style="border-right:1px solid #30363d;">
+<td width="64%" valign="top" style="border-right:1px solid #30363d;">
 
 
 
@@ -42,12 +43,11 @@
 
 </td>
 
-<td width="30%" align="center" valign="middle" >
+<td width="36%" align="center" valign="middle" >
 
 
 <img
-  src="./assests/side-banner.png"
-  width="180"
+  src="./assests/side-banner1.png"
   alt="Developer Illustration"
   width="100%"
 />
