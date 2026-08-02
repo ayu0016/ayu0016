@@ -3,43 +3,64 @@
 <!--              Full Stack Engineer | GenAI                  -->
 <!-- ========================================================= -->
 
-<table>
-<tr>
-
-<td width="30%" valign="top">
-
-<img src="./assets/side-banner.png" width="100%" alt="Side Banner"/>
-
-</td>
-
-<td width="70%" valign="middle">
-
 <div align="center">
 
 # AYUSH
 
 ### Curious • Consistent • Builder
 
-<img src="./assets/divider.svg" width="95%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=1800&pause=700&color=60A5FA&center=true&vCenter=true&repeat=true&width=500&lines=Think.;Build.;Ship.;Repeat." />
 
 ### *Learn by Shipping.*
 
-<img src="./assets/divider.svg" width="95%" />
 
 ## Full Stack Engineer • GenAI
 
 </div>
 
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<table align="center" width="100%" cellspacing="0" cellpadding="12" style="border:1px solid #30363d; border-radius:10px;">
+
+<tr>
+
+<td width="65%" valign="top" style="border-right:1px solid #30363d;">
+
+
+- 💻 Full Stack Developer passionate about building modern web apps.
+- 🌱 Currently learning **System Design, Cloud & DevOps**.
+- 🚀 Building **AI-powered** projects and contributing to **Open Source**.
+- 🎯 Goal: Create products that solve real-world problems.
+- 🧠 Curious about scalable backend systems and **GenAI**.
+- 🎮 Gamer when I'm not coding.
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e"
+  width="180"
+  alt="Developer Illustration"
+/>
+
+<br><br>
+
+
 </td>
 
 </tr>
+
 </table>
+
+
+
 
 ---
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assests/section-devider.svg" width="100%"/>
 
 <div align="center">
 <h1> ⚙ Engineering Toolkit </h1>

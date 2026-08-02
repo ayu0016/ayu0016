@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#2563EB" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#60A5FA"/>
+      <stop offset="85%" stop-color="#2563EB" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background line -->
+  <line x1="20" y1="45" x2="780" y2="45" stroke="#E0F2FE" stroke-opacity="0.65" stroke-width="1.5"/>
+
+  <!-- Glow behind center icon -->
+  <circle cx="400" cy="45" r="34" fill="url(#glow)"/>
+
+  <!-- Center icon: pokeball-style crosshair circle -->
+  <circle cx="400" cy="45" r="16" fill="#0D1117" stroke="#60A5FA" stroke-width="1.5"/>
+  <line x1="384" y1="45" x2="392" y2="45" stroke="#60A5FA" stroke-width="1.5"/>
+  <line x1="408" y1="45" x2="416" y2="45" stroke="#60A5FA" stroke-width="1.5"/>
+  <circle cx="400" cy="45" r="5" fill="none" stroke="#A5B4FC" stroke-width="1.5"/>
+  <circle cx="400" cy="45" r="1.6" fill="#A5B4FC"/>
+
+  <!-- End node dots -->
+  <circle cx="20" cy="45" r="5" fill="#2563EB"/>
+  <circle cx="780" cy="45" r="5" fill="#2563EB"/>
+</svg>
