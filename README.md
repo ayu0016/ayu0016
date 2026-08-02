@@ -28,7 +28,7 @@
 
 <td width="70%" valign="top" style="border-right:1px solid #30363d;">
 
-<br>
+
 
 - 💻 Full Stack Developer passionate about building modern web apps.
 
@@ -43,7 +43,7 @@
 </td>
 
 <td width="30%" align="center" valign="middle" >
-<br>
+
 
 <img
   src="./assests/side-banner.png"
