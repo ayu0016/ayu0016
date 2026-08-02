@@ -43,60 +43,71 @@ Building production-ready software with modern web technologies while exploring 
 
 <img src="./assets/divider.svg" width="100%"/>
 
-# ⚔ Tech Arsenal
+# ⚙️ Engineering Toolkit
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![Redux Toolkit](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux)
-![React Query](https://img.shields.io/badge/TanStack_Query-0D1117?style=for-the-badge&logo=reactquery)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D1117?style=for-the-badge&logo=reacthookform)
-![Zod](https://img.shields.io/badge/Zod-0D1117?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,html,css&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis)
-![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square" />
+</p>
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
+</p>
 
-### AI
+### AI / GenAI
 
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-0D1117?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-121212?style=flat-square" />
+</p>
 
-### DevOps
+### DevOps & Deployment
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+</p>
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-0D1117?style=for-the-badge)
-![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,notion&theme=dark" />
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/Thunder%20Client-7B68EE?style=flat-square" />
+</p>
 ---
 
 <img src="./assets/quest-card.svg" width="100%"/>
