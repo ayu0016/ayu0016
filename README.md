@@ -43,75 +43,25 @@ Building production-ready software with modern web technologies while exploring 
 
 <img src="./assets/divider.svg" width="100%"/>
 
-# ⚙️ Engineering Toolkit
+# ⚙ Engineering Toolkit
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,vite,redux,tailwind,nodejs,express,mongodb,postgres,redis,docker,git,github,vscode,postman,figma,notion&perline=10"/>
+</p>
 
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
-</td>
-</tr>
+<p align="center">
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,html,css" />
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Database</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</td>
-</tr>
-
-<tr>
-<td><strong>GenAI</strong></td>
-<td>
-
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square"/>
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
 <img src="https://img.shields.io/badge/MCP-121212?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-121212?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td><strong>DevOps</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions" />
+<img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-</td>
-</tr>
 
-<tr>
-<td><strong>Tools</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,notion" />
-<img src="https://img.shields.io/badge/Thunder%20Client-7B68EE?style=flat-square"/>
-</td>
-</tr>
-
-</table>
+</p>
 
 
 ---
