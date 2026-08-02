@@ -26,7 +26,7 @@
 
 <tr>
 
-<td width="65%" valign="top" style="border-right:1px solid #30363d;">
+<td width="70%" valign="top" style="border-right:1px solid #30363d;">
 
 <br>
 
@@ -42,7 +42,7 @@
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 <br>
 
 <img
