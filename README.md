@@ -72,6 +72,10 @@ Building production-ready software with modern web technologies while exploring 
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=flat-square&logo=gmail&logoColor=white" />
 </p>
 
 ### Databases
@@ -84,8 +88,7 @@ Building production-ready software with modern web technologies while exploring 
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-121212?style=flat-square" />
+
   <img src="https://img.shields.io/badge/Prompt%20Engineering-121212?style=flat-square" />
 </p>
 
