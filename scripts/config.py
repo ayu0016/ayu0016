@@ -18,17 +18,19 @@ LEVEL_THRESHOLDS = [
 ]
 
 PARTNER_NAME = "Porygon"
+QUEST_TEXT = "Shipping full-stack + GenAI projects"
 
-# Monochromatic blue palette, dark background — no greens, no gradients.
+# Monochromatic blue palette, dark background — vibrant top tier, clearly
+# stepped so each activity level reads distinctly at a glance.
 COLORS = {
-    "background": "#0d1117",
-    "card_border": "#1e2a38",
-    "text_primary": "#e6f1fb",
-    "text_muted": "#5f6b7a",
-    "accent": "#378ADD",
-    "cell_empty": "#161b22",
-    "cell_low": "#0e3a5f",
-    "cell_medium": "#155a8a",
-    "cell_high": "#1f7bc4",
-    "cell_max": "#378ADD",
+    "background": "#0b0f17",
+    "card_border": "#1e2a3a",
+    "text_primary": "#eaf3fc",
+    "text_muted": "#7a8699",
+    "accent": "#4DA8FF",
+    "cell_empty": "#151b25",
+    "cell_low": "#173d61",
+    "cell_medium": "#1c5c92",
+    "cell_high": "#2f8fd1",
+    "cell_max": "#5fc1ff",
 }
