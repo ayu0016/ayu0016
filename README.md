@@ -5,21 +5,27 @@
 
 <div align="center">
 
-# Hey there, I'm <span style="color:#3B82F6">Ayush Rastogi</span> 👋
+<p align="center">
+  <img src="./assets/header.svg" width="700" alt="Ayush Rastogi Header">
+</p>
+
+ **Curious • Consistent • Builder**
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;Backend+Enthusiast;GenAI+Explorer"/>
 
-### **Curious • Consistent • Builder**
+
 
 <i>Learn by Shipping.</i>
 
 </div>
 
 <div align="center">
-<img src="./assests/section-devider.svg" width="100%" alt="Section Divider"/>
+<img src="./assets/section-devider.svg" width="100%" alt="Section Divider"/>
 </div>
 
+<br>
 <h1 align="center">👩‍💻 About Me</h1>
 
 
@@ -47,7 +53,7 @@
 
 
 <img
-  src="./assests/side-banner1.png"
+  src="./assets/side-banner1.png"
   alt="Developer Illustration"
   width="100%"
 />
@@ -65,7 +71,7 @@
 
 
 
-<img src="./assests/section-devider.svg" width="100%"/>
+<img src="./assets/section-devider.svg" width="100%"/>
 
 <div align="center">
 <h1> ⚙ Engineering Toolkit </h1>
