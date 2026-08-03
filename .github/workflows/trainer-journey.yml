@@ -1,0 +1,44 @@
+name: Trainer Journey
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-trainer-journey:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch contribution data
+        working-directory: .
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.TRAINER_JOURNEY_PAT }}
+        run: python scripts/fetch_contributions.py
+
+      - name: Calculate trainer stats
+        run: python scripts/calculate_stats.py
+
+      - name: Generate SVG
+        run: python scripts/generate_svg.py
+
+      - name: Commit updated asset
+        run: |
+          git config user.name "trainer-journey-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/trainer-journey.svg data/contributions.json data/trainer.json
+          git diff --staged --quiet || git commit -m "chore: update trainer journey card"
+          git push

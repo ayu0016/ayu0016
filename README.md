@@ -20,7 +20,7 @@
 <img src="./assests/section-devider.svg" width="100%" alt="Section Divider"/>
 </div>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h1 align="center">👩‍💻 About Me</h1>
 
 
 <table align="center" width="100%" cellspacing="0" cellpadding="12" style="border:1px solid #30363d; border-radius:10px;">
@@ -92,6 +92,12 @@
 ---
 
 <img src="./assets/quest-card.svg" width="100%"/>
+
+## 🎮 Trainer Journey
+ 
+![Trainer Journey](./assets/trainer-journey.svg)
+<!-- Auto-generated daily by .github/workflows/trainer-journey.yml — see the
+     trainer-journey project README for setup. Do not edit this line manually. -->
 
 # 🚀 Currently Building
 
