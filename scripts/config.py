@@ -18,7 +18,7 @@ LEVEL_THRESHOLDS = [
 ]
 
 PARTNER_NAME = "Porygon"
-QUEST_TEXT = "Shipping full-stack + GenAI projects"
+QUEST_TEXT = "surving the college"
 
 # Monochromatic blue palette, dark background — vibrant top tier, clearly
 # stepped so each activity level reads distinctly at a glance.

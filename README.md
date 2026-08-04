@@ -21,12 +21,14 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="./assets/section-devider.svg" width="100%" alt="Section Divider"/>
-</div>
+</div> -->
+
+---
 
 <br>
-<h1 align="center">👩‍💻 About Me</h1>
+<h1 align="center"> About Me </h1>
 
 
 <table align="center" width="100%" cellspacing="0" cellpadding="12" style="border:1px solid #30363d; border-radius:10px;">
@@ -37,15 +39,15 @@
 
 
 
-- 💻 Full Stack Developer passionate about building modern web apps.
+-  Full Stack Developer passionate about building modern web apps.
 
 
 
-- 🌱 Currently learning **System Design, Cloud & DevOps**.
-- 🚀 Building **AI-powered** projects and contributing to **Open Source**.
-- 🎯 Goal: Create products that solve real-world problems.
-- 🧠 Curious about scalable backend systems and **GenAI**.
-- 🎮 Gamer when I'm not coding.
+-  Currently learning **System Design, Cloud & DevOps**.
+-  Building **AI-powered** projects and contributing to **Open Source**.
+-  Goal: Create products that solve real-world problems.
+-  Curious about scalable backend systems and **GenAI**.
+-  Gamer when I'm not coding.
 
 </td>
 
@@ -71,10 +73,10 @@
 
 
 
-<img src="./assets/section-devider.svg" width="100%"/>
-
+<!-- <img src="./assets/section-devider.svg" width="100%"/> -->
+---
 <div align="center">
-<h1> ⚙ Engineering Toolkit </h1>
+<h1>  Engineering Toolkit </h1>
 </div>
 
 <p align="center">
@@ -95,17 +97,22 @@
 
 </p>
 
+
+<!-- <img src="./assets/section-devider.svg" width="100%"/> -->
 ---
 
-<img src="./assets/quest-card.svg" width="100%"/>
 
-## 🎮 Trainer Journey
+<!-- <img src="./assets/quest-card.svg" width="100%"/> -->
+
+<div align="center">
+<h1> Trainer Journey  </h1>
+</div>
  
 ![Trainer Journey](./assets/trainer-journey.svg)
 <!-- Auto-generated daily by .github/workflows/trainer-journey.yml — see the
      trainer-journey project README for setup. Do not edit this line manually. -->
 
-# 🚀 Currently Building
+<!-- # 🚀 Currently Building
 
 - **Event Hub**
 - **SyncSpace**
@@ -137,25 +144,24 @@
 
 ---
 
-<img src="./assets/gym-divider.svg" width="100%"/>
+<img src="./assets/gym-divider.svg" width="100%"/> -->
+<!-- <img src="./assets/section-devider.svg" width="100%"/> -->
+---
+<h1 align="center"> Achievements</h1>
 
-# 🏅 Gym Badges
-
-🏆 Smart India Hackathon Finalist
-
-💙 GDG Programmer
-
-💙 GDG Developer
-
-<img src="./assets/trainer-card.svg" align="right" width="260"/>
+<p align="center">
+<img src="https://img.shields.io/badge/🏆_Smart_India_Hackathon_Finalist-1c5c92?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GDG_Programmer-1c5c92?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_GDG_Developer-1c5c92?style=for-the-badge"/>
+</p>
 
 ---
+<h1 align="center">Let's Connect</h1>
 
-# 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-
-[![Email](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<p align="center">
+<a href="YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rastogiayuhs0016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
