@@ -1,21 +1,30 @@
+
 name: Trainer Journey
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
   push:
     branches: [main]
 
 permissions:
   contents: write
 
+concurrency:
+  group: trainer-journey-main
+  cancel-in-progress: false
+
 jobs:
   update-trainer-journey:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,7 +32,6 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch contribution data
-        working-directory: .
         env:
           GH_USERNAME: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.TRAINER_JOURNEY_PAT }}
@@ -39,6 +47,15 @@ jobs:
         run: |
           git config user.name "trainer-journey-bot"
           git config user.email "actions@users.noreply.github.com"
+
           git add assets/trainer-journey.svg data/contributions.json data/trainer.json
-          git diff --staged --quiet || git commit -m "chore: update trainer journey card"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update trainer journey card"
+
+          git pull --rebase origin main
+          git push origin main
