@@ -103,11 +103,11 @@
 
 <!-- <img src="./assets/quest-card.svg" width="100%"/> -->
 
-<div align="center">
+<!-- <div align="center">
 <h1> Trainer Journey  </h1>
 </div>
  
-![Trainer Journey](./assets/trainer-journey.svg)
+![Trainer Journey](./assets/trainer-journey.svg) -->
 <!-- Auto-generated daily by .github/workflows/trainer-journey.yml — see the
      trainer-journey project README for setup. Do not edit this line manually. -->
 
